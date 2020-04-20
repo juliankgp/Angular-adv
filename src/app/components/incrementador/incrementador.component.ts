@@ -16,14 +16,14 @@ export class IncrementadorComponent implements OnInit {
 
 
   constructor() {
-    console.log('Leyenda', this.leyenda);
-    console.log('Progreso', this.porcentaje);
+    // console.log('Leyenda', this.leyenda);
+    // console.log('Progreso', this.porcentaje);
 
   }
 
   ngOnInit() {
-    console.log('Leyenda', this.leyenda);
-    console.log('Progreso', this.porcentaje);
+    // console.log('Leyenda', this.leyenda);
+    // console.log('Progreso', this.porcentaje);
   }
 
 

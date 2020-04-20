@@ -32,6 +32,8 @@
       140
     ],
     "member-access": false,
+    "variable-name":false,
+    "no-shadowed-variable":false,
     "member-ordering": [
       true,
       {
